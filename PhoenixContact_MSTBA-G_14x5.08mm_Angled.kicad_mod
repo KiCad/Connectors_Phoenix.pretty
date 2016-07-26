@@ -1,6 +1,6 @@
-(module PhoenixContact_MSTBA-G_14x5.08mm_Angled (layer F.Cu) (tedit 578DFBC6)
+(module PhoenixContact_MSTBA-G_14x5.08mm_Angled (layer F.Cu) (tedit 5797DB0B)
   (descr "Generic Phoenix Contact connector footprint for series: MSTBA-G; number of pins: 14; pin pitch: 5.08mm; Angled || order number: 1757365 12A")
-  (tags "phoenix_contact MSTBA_01x14_G_5.08mm")
+  (tags "phoenix_contact connector MSTBA_01x14_G_5.08mm")
   (fp_text reference REF** (at 33.02 -3.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

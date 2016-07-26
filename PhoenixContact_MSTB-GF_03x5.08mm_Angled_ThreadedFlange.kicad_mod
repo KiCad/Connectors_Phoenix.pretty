@@ -1,6 +1,6 @@
-(module PhoenixContact_MSTB-GF_03x5.08mm_Angled_ThreadedFlange (layer F.Cu) (tedit 578DFBC6)
+(module PhoenixContact_MSTB-GF_03x5.08mm_Angled_ThreadedFlange (layer F.Cu) (tedit 5797DB0B)
   (descr "Generic Phoenix Contact connector footprint for series: MSTB-GF; number of pins: 03; pin pitch: 5.08mm; Angled; threaded flange || order number: 1776511 12A || order number: 1924091 16A (HC)")
-  (tags "phoenix_contact MSTB_01x03_GF_5.08mm")
+  (tags "phoenix_contact connector MSTB_01x03_GF_5.08mm")
   (fp_text reference REF** (at 5.08 -3.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

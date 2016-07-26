@@ -1,6 +1,6 @@
-(module PhoenixContact_MSTBV-GF_15x5.00mm_Vertical_ThreadedFlange (layer F.Cu) (tedit 578DFBC6)
+(module PhoenixContact_MSTBV-GF_15x5.00mm_Vertical_ThreadedFlange (layer F.Cu) (tedit 5797DB0D)
   (descr "Generic Phoenix Contact connector footprint for series: MSTBV-GF; number of pins: 15; pin pitch: 5.00mm; Vertical; threaded flange || order number: 1776015 12A")
-  (tags "phoenix_contact MSTBV_01x15_GF_5.00mm")
+  (tags "phoenix_contact connector MSTBV_01x15_GF_5.00mm")
   (fp_text reference REF** (at 35 -6) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
