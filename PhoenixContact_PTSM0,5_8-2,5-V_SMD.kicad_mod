@@ -1,6 +1,6 @@
 (module PhoenixContact_PTSM0,5_8-2,5-V_SMD (layer F.Cu) (tedit 587F9CCD)
   (descr "PhoenixContact PTSM0,5 8 2,5mm vertical SMD spring clamp terminal block connector http://www.phoenixcontact.com/us/products/1814760/pdf")
-  (tags "PhoenixContact PTSM0,5 8 2.5mm vertical SMD spring clamp terminal block connector ")
+  (tags "PhoenixContact PTSM0.5 8 2.5mm vertical SMD spring clamp terminal block connector ")
   (attr smd)
   (fp_text reference Ref** (at -1.4 4.98) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
