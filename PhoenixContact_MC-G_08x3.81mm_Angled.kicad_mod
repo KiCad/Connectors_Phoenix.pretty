@@ -1,4 +1,4 @@
-(module PhoenixContact_MC-G_08x3.81mm_Angled (layer F.Cu) (tedit 58AB02D6)
+(module PhoenixContact_MC-G_08x3.81mm_Angled (layer F.Cu) (tedit 58AB290B)
   (descr "Generic Phoenix Contact connector footprint for series: MC-G; number of pins: 08; pin pitch: 3.81mm; Angled || order number: 1803332 8A 160V")
   (tags "phoenix_contactMC_01x08_G_3.81mm")
   (fp_text reference REF** (at 13.335 -2.8) (layer F.SilkS)

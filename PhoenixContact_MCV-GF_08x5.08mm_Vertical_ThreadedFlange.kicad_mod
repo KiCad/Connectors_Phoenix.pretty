@@ -1,4 +1,4 @@
-(module PhoenixContact_MCV-GF_08x5.08mm_Vertical_ThreadedFlange (layer F.Cu) (tedit 58AB02D6)
+(module PhoenixContact_MCV-GF_08x5.08mm_Vertical_ThreadedFlange (layer F.Cu) (tedit 58AB290B)
   (descr "Generic Phoenix Contact connector footprint for series: MCV-GF; number of pins: 08; pin pitch: 5.08mm; Vertical; threaded flange || order number: 1847673 8A 320V")
   (tags "phoenix_contactMCV_01x08_GF_5.08mm")
   (fp_text reference REF** (at 17.78 -5.35) (layer F.SilkS)

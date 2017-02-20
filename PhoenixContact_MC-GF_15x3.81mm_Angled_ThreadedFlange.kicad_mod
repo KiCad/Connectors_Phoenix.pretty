@@ -1,4 +1,4 @@
-(module PhoenixContact_MC-GF_15x3.81mm_Angled_ThreadedFlange (layer F.Cu) (tedit 58AB02D6)
+(module PhoenixContact_MC-GF_15x3.81mm_Angled_ThreadedFlange (layer F.Cu) (tedit 58AB290B)
   (descr "Generic Phoenix Contact connector footprint for series: MC-GF; number of pins: 15; pin pitch: 3.81mm; Angled; threaded flange || order number: 1827994 8A 160V")
   (tags "phoenix_contactMC_01x15_GF_3.81mm")
   (fp_text reference REF** (at 26.67 -2.8) (layer F.SilkS)

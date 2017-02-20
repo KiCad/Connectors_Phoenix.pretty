@@ -1,4 +1,4 @@
-(module PhoenixContact_MC-GF_10x5.08mm_Angled_ThreadedFlange (layer F.Cu) (tedit 58AB02D6)
+(module PhoenixContact_MC-GF_10x5.08mm_Angled_ThreadedFlange (layer F.Cu) (tedit 58AB290D)
   (descr "Generic Phoenix Contact connector footprint for series: MC-GF; number of pins: 10; pin pitch: 5.08mm; Angled; threaded flange || order number: 1847547 8A 320V")
   (tags "phoenix_contactMC_01x10_GF_5.08mm")
   (fp_text reference REF** (at 22.86 -2.8) (layer F.SilkS)

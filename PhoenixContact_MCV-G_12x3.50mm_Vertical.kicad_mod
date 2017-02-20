@@ -1,4 +1,4 @@
-(module PhoenixContact_MCV-G_12x3.50mm_Vertical (layer F.Cu) (tedit 58AB02D7)
+(module PhoenixContact_MCV-G_12x3.50mm_Vertical (layer F.Cu) (tedit 58AB290B)
   (descr "Generic Phoenix Contact connector footprint for series: MCV-G; number of pins: 12; pin pitch: 3.50mm; Vertical || order number: 1843703 8A 160V")
   (tags "phoenix_contactMCV_01x12_G_3.5mm")
   (fp_text reference REF** (at 19.25 -5.25) (layer F.SilkS)
