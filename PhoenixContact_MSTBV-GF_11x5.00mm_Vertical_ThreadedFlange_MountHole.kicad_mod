@@ -1,4 +1,4 @@
-(module PhoenixContact_MSTBV-GF_11x5.00mm_Vertical_ThreadedFlange_MountHole (layer F.Cu) (tedit 5956537F)
+(module PhoenixContact_MSTBV-GF_11x5.00mm_Vertical_ThreadedFlange_MountHole (layer F.Cu) (tedit 59565777)
   (descr "Generic Phoenix Contact connector footprint for series: MSTBV-GF; number of pins: 11; pin pitch: 5.00mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776977 12A || order number: 1924509 16A (HC)")
   (tags "phoenix_contact connector MSTBV_01x11_GF_5.00mm_MH")
   (fp_text reference REF** (at 25 -5.8) (layer F.SilkS)

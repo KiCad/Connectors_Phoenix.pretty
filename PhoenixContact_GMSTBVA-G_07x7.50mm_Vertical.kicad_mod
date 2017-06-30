@@ -1,4 +1,4 @@
-(module PhoenixContact_GMSTBVA-G_07x7.50mm_Vertical (layer F.Cu) (tedit 59565380)
+(module PhoenixContact_GMSTBVA-G_07x7.50mm_Vertical (layer F.Cu) (tedit 59565776)
   (descr "Generic Phoenix Contact connector footprint for series: GMSTBVA-G; number of pins: 07; pin pitch: 7.50mm; Vertical || order number: 1766712 12A 630V")
   (tags "phoenix_contact connector GMSTBVA_01x07_G_7.50mm")
   (fp_text reference REF** (at 22.5 -5.8) (layer F.SilkS)

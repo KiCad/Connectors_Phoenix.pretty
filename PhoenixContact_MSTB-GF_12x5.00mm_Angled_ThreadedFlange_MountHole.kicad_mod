@@ -1,5 +1,5 @@
-(module PhoenixContact_MSTB-GF_12x5.00mm_Angled_ThreadedFlange_MountHole (layer F.Cu) (tedit 5956537F)
-  (descr "Generic Phoenix Contact connector footprint for series: MSTB-GF; number of pins: 12; pin pitch: 5.00mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1924075 16A (HC) || order number: 1776799 12A")
+(module PhoenixContact_MSTB-GF_12x5.00mm_Angled_ThreadedFlange_MountHole (layer F.Cu) (tedit 59565776)
+  (descr "Generic Phoenix Contact connector footprint for series: MSTB-GF; number of pins: 12; pin pitch: 5.00mm; Angled; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x6.5 C or ISO 7049-ST 2.2x6.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1776799 12A || order number: 1924075 16A (HC)")
   (tags "phoenix_contact connector MSTB_01x12_GF_5.00mm_MH")
   (fp_text reference REF** (at 27.5 -3) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

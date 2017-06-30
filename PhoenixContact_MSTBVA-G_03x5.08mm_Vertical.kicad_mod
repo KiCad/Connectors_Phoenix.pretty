@@ -1,5 +1,5 @@
-(module PhoenixContact_MSTBVA-G_03x5.08mm_Vertical (layer F.Cu) (tedit 59565380)
-  (descr "Generic Phoenix Contact connector footprint for series: MSTBVA-G; number of pins: 03; pin pitch: 5.08mm; Vertical || order number: 1924318 16A (HC) || order number: 1755749 12A")
+(module PhoenixContact_MSTBVA-G_03x5.08mm_Vertical (layer F.Cu) (tedit 59565777)
+  (descr "Generic Phoenix Contact connector footprint for series: MSTBVA-G; number of pins: 03; pin pitch: 5.08mm; Vertical || order number: 1755749 12A || order number: 1924318 16A (HC)")
   (tags "phoenix_contact connector MSTBVA_01x03_G_5.08mm")
   (fp_text reference REF** (at 5.08 -5.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
