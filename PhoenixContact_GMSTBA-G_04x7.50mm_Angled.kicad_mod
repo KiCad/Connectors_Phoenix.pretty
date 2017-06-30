@@ -1,4 +1,4 @@
-(module PhoenixContact_GMSTBA-G_04x7.50mm_Angled (layer F.Cu) (tedit 595651BF)
+(module PhoenixContact_GMSTBA-G_04x7.50mm_Angled (layer F.Cu) (tedit 59565380)
   (descr "Generic Phoenix Contact connector footprint for series: GMSTBA-G; number of pins: 04; pin pitch: 7.50mm; Angled || order number: 1766369 12A 630V")
   (tags "phoenix_contact connector GMSTBA_01x04_G_7.50mm")
   (fp_text reference REF** (at 11.25 -3) (layer F.SilkS)
