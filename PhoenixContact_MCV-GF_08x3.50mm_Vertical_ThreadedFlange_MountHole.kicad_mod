@@ -1,4 +1,4 @@
-(module PhoenixContact_MCV-GF_08x3.50mm_Vertical_ThreadedFlange_MountHole (layer F.Cu) (tedit 58AC4560)
+(module PhoenixContact_MCV-GF_08x3.50mm_Vertical_ThreadedFlange_MountHole (layer F.Cu) (tedit 59566E61)
   (descr "Generic Phoenix Contact connector footprint for series: MCV-GF; number of pins: 08; pin pitch: 3.50mm; Vertical; threaded flange; footprint includes mount hole for mounting screw: ISO 1481-ST 2.2x4.5 C or ISO 7049-ST 2.2x4.5 C (http://www.fasteners.eu/standards/ISO/7049/) || order number: 1843282 8A 160V")
   (tags "phoenix_contact connector MCV_01x08_GF_3.5mm_MH")
   (fp_text reference REF** (at 12.25 -5.25) (layer F.SilkS)
@@ -164,7 +164,7 @@
   (fp_text user %R (at 12.25 -3) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model Connectors_Phoenix.3dshapes/PhoenixContact_MCV-GF_08x3.50mm_Vertical_ThreadedFlange_MountHole.wrl
+  (model ${KISYS3DMOD}/Connectors_Phoenix.3dshapes/PhoenixContact_MCV-GF_08x3.50mm_Vertical_ThreadedFlange_MountHole.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
