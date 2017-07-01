@@ -1,4 +1,4 @@
-(module PhoenixContact_GMSTBV-GF_07x7.62mm_Vertical_ThreadedFlange (layer F.Cu) (tedit 58AC498B)
+(module PhoenixContact_GMSTBV-GF_07x7.62mm_Vertical_ThreadedFlange (layer F.Cu) (tedit 59566E5D)
   (descr "Generic Phoenix Contact connector footprint for series: GMSTBV-GF; number of pins: 07; pin pitch: 7.62mm; Vertical; threaded flange || order number: 1829206 12A 630V")
   (tags "phoenix_contact connector GMSTBV_01x07_GF_7.62mm")
   (fp_text reference REF** (at 22.86 -5.8) (layer F.SilkS)
@@ -103,7 +103,7 @@
   (fp_text user %R (at 22.86 -3) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model Connectors_Phoenix.3dshapes/PhoenixContact_GMSTBV-GF_07x7.62mm_Vertical_ThreadedFlange.wrl
+  (model ${KISYS3DMOD}/Connectors_Phoenix.3dshapes/PhoenixContact_GMSTBV-GF_07x7.62mm_Vertical_ThreadedFlange.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
