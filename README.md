@@ -1,6 +1,8 @@
 # Connectors_Phoenix.pretty
 This library contains footprints for [Phoenix Contact](www.phoenixcontact.com) connectors.
 
+**This is a legacy repo for kicad v4. No new pull requests will be accepted here. Replacement repo: https://github.com/KiCad/kicad-footprints**
+
 Footprints for the following connectors are available:
 - MSTB (Classic combicon) Series:
   - MSTBA
